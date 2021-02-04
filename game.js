@@ -3,7 +3,7 @@ let userClickedPattern = [];
 let buttonColours= ["red", "blue", "green", "yellow"];
 let level = 0;
 
-
+// Start the sequence of colors I need to match
 function nextSequence(){
 
     userClickedPattern= [];
